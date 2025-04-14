@@ -1,7 +1,11 @@
 # Stack technologiczny dla HealthyMeal MVP
 
+Frontend w katalogu `/front-end`
+Backend w katalogu `/back-end`
+CI/CD w katalogu `/deployment`
+
 ## Frontend
-- **React** - biblioteka JavaScript do budowania interfejsu użytkownika
+- **Angular** - biblioteka JavaScript do budowania interfejsu użytkownika
 - **Bootstrap** - framework CSS dla responsywnego designu
 
 ## Backend
