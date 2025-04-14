@@ -6,7 +6,6 @@
 
 ## Backend
 - **.NET 9** - framework do budowy API
-- **Identity Framework** - zarządzanie użytkownikami i OAuth
 
 ## Baza danych
 - **PostgreSQL** - relacyjna baza danych open-source
